@@ -1,0 +1,7 @@
+id=NotchKiller
+name=Universal Notch Killer
+version=v3
+versionCode=3
+author=zigafide
+description=Makes the phone ignore the notch. Uses the space for games and apps! (readme!)
+minMagisk=17000
