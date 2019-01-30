@@ -4,7 +4,11 @@ Notch is now used for games and apps! (No more black bars)
 <br />
 <br />
 <font color="red">
-!!!! I only tested this on xiaomi mi a2 lite! Use at your own risk.
+!!!! Confirmed working devices:
+<br />
+Mi a2 Lite (stock android 9)
+<br />
+Poco F1 MIUI 10
 <br />
 !!!! This should work on AOSP roms.
 <br />
